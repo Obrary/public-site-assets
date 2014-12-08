@@ -41,16 +41,13 @@ This Company’s logo is a registered trademark of this Company in the United St
 
 Obrary welcomes your questions or comments regarding the Terms:
 
+<pre>
 Obrary
- 
 1251 Emerald Street
-
 San Diego, California 92109
-
 Email Address: contact@obrary.com
-
 Telephone number: 619-356-1465
-
+</pre>
 ###Force Majeure
 Neither party shall be liable to the other for any failure to perform any obligation under any Agreement which is due to an event beyond the control of such party including but not limited to any Act of God, terrorism, war, Political insurgence, insurrection, riot, civil unrest, act of civil or military authority, uprising, earthquake, flood or any other natural or man made eventuality outside of our control, which causes the termination of an agreement or contract entered into, nor which could have been reasonably foreseen. Any Party affected by such event shall forthwith inform the other Party of the same and shall use all reasonable endeavours to comply with the terms and conditions of any Agreement contained herein.
 
