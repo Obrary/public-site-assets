@@ -14,11 +14,3 @@ We, along with third-party vendors, including Google, use first-party cookies (s
 At any time, visitors may choose to opt-out of Google Analytics tracking with the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
 
 This policy was last modified on June 30, 2014
-
-####Contacting Us
-
-Obrary
-1251 Emerald Street
-San Diego, California 92109
-[contact@obrary.com](mailto:contact@obrary.com)
-619-356-1465
