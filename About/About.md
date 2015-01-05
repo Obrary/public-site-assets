@@ -20,7 +20,7 @@ We chose to use the term Open Design over Open Source Hardware. Those terms are 
 
 ###Open Design
 
-We publish design that adgere to the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).  These are free culture compatible licenses.  learn more about creative commons licensing here.  We do not view BY-SA-NC to be an equal otherwise compatible with open design principles as it favors commercial restriction over innovation and freedom. 
+We host and publish designs that adhere to the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).  you can learn more about this licence [here](http://creativecommons.org/licenses/by-sa/4.0/) These are free culture compatible licenses.  learn more about creative commons licensing here.  We do not view BY-SA-NC to be an equal otherwise compatible with open design principles as it favors commercial restriction over innovation and freedom. 
 
 
 If you use designs from Obrary:
