@@ -3,8 +3,7 @@ We are a team of technologists, business leaders, product designers, and seasone
 
 
 ![Eric](https://raw.githubusercontent.com/Obrary/public-site-assets/master/About/images/Eric-Circle_medium.jpg)
-[Eric Schleicher](http://www.linkedin.com/in/
-ericschleicher) 
+[Eric Schleicher](http://www.linkedin.com/in/ericschleicher) 
 
 ![Alexey Volochenko](https://raw.githubusercontent.com/Obrary/public-site-assets/master/About/images/Alexey-Circle_medium.jpg)
 Alexey Volochenko
