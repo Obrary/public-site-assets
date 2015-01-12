@@ -4,7 +4,7 @@ We are a team of technologists, business leaders, product designers, and seasone
 
 ![Eric](images/Eric-Circle_medium.jpg)
 [Eric Schleicher](http://www.linkedin.com/in/
-ericschleicher)
+ericschleicher) 
 
 ![Alexey Volochenko](images/Alexey-Circle_medium.jpg)
 Alexey Volochenko
@@ -16,4 +16,10 @@ Alexey Volochenko
 [Scott Austin](http://www.linkedin.com/in/svaustin)
 
 ![Stella Daniels](images/Stella_medium.jpg)
-Stella Daniels]
+Stella Daniels
+
+###Incubator
+
+<a href="http://www.commnexus.org/evonexus-companies/obrary-inc/"><img src="images/evobadge.png"/></a>
+
+We are a proud member of EvoNexus - CommNexus is a non-profit technology industry association that works to accelerate the formation, growth, and success of the technology industry in the San Diego region.
