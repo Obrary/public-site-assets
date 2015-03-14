@@ -43,7 +43,7 @@ If you submit Open Designs to Obrary:
 
 Creative Commons has easy to understand licenses. Some other licenses have long documents full of legalize that aren’t user friendly. Creative Commons is the now the most popular licenses for hardware and designs, so our hope is that CC will be more easily identified and understood by people. The Creative Commons license is about general IP and is not just for software or technology based hardware.
 
-<img src="https://raw.githubusercontent.com/Obrary/public-site-assets/master/About/images/Obrary_Infographic_1024x1024.jpg">
+<img src="https://raw.githubusercontent.com/Obrary/public-site-assets/master/About/images/Obrary_Infographic_1024x1024.jpg" alt="Open Design Infographic" align="middle">
 
 ###Team
 We are a team of technologists, business leaders, product designers, and seasoned entrepreneurs -- all makers. We eat our dog food of making, building, and collaborating, not because we have to, or because it’s research, but because it’s so fun.
