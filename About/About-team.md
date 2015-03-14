@@ -16,6 +16,4 @@ Stella Daniels
 
 ###Incubator
 
-<a href="http://www.commnexus.org/evonexus-companies/obrary-inc/"><img src="https://raw.githubusercontent.com/Obrary/public-site-assets/master/About/images/evobadge.png"/></a>
-
-We are a proud member of EvoNexus - CommNexus is a non-profit technology industry association that works to accelerate the formation, growth, and success of the technology industry in the San Diego region.
+| <a href="http://www.commnexus.org/evonexus-companies/obrary-inc/"><img src="https://raw.githubusercontent.com/Obrary/public-site-assets/master/About/images/evobadge.png"/></a> | We are a proud member of EvoNexus - CommNexus is a non-profit technology industry association that works to accelerate the formation, growth, and success of the technology industry in the San Diego region. |
