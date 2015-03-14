@@ -1,6 +1,4 @@
-﻿#About Obrary
----
-
+﻿
 
 ##o·brar·y \'oh-brer-ee:
 *noun*:  The library of Open Design products
