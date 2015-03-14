@@ -7,15 +7,15 @@ We are a team of technologists, business leaders, product designers, and seasone
 <td><a href="http://www.linkedin.com/in/ericschleicher">Eric Schleicher</a></td>
 </tr>
 <tr>
-<td>![Ha Phan](https://raw.githubusercontent.com/Obrary/public-site-assets/master/About/images/Ha-Circle_medium.png)</td>
-<td>[Ha Phan](http://www.linkedin.com/in/hpuxixd/)</td>
+<td><img src="https://raw.githubusercontent.com/Obrary/public-site-assets/master/About/images/Ha-Circle_medium.png" alt="Ha Phan"></td>
+<td><a href="http://www.linkedin.com/in/hpuxixd">Ha Phan</a></td>
 </tr>
 <tr>
-<td>![Scott Austin](https://raw.githubusercontent.com/Obrary/public-site-assets/master/About/images/Scott-Circle_medium.png)</td>
-<td>[Scott Austin](http://www.linkedin.com/in/svaustin)</td>
+<td><img src="https://raw.githubusercontent.com/Obrary/public-site-assets/master/About/images/Scott-Circle_medium.png" alt="Scott Austin"></td>
+<td><a href="http://www.linkedin.com/in/svaustin">Scott Austin</a></td>
 </tr>
 <tr>
-<td>![Stella Daniels](https://raw.githubusercontent.com/Obrary/public-site-assets/master/About/images/Stella_medium.png)</td>
+<td><img src="https://raw.githubusercontent.com/Obrary/public-site-assets/master/About/images/Stella_medium.png" alt="Stella Daniels"></td>
 <td>Stella Daniels</td>
 </tr>
 </table>
