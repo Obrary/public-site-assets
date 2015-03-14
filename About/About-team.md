@@ -2,7 +2,7 @@
 ###Team
 We are a team of technologists, business leaders, product designers, and seasoned entrepreneurs -- all makers. We eat our dog food of making, building, and collaborating, not because we have to, or because it’s research, but because it’s so dang fun.
 
-<table>
+<table align="center">
 <tr>
 <td><img src="https://raw.githubusercontent.com/Obrary/public-site-assets/master/About/images/Eric-Circle_medium.png" alt="Eric Schleicher"></td>
 <td><img src="https://raw.githubusercontent.com/Obrary/public-site-assets/master/About/images/Ha-Circle_medium.png" alt="Ha Phan"></td>
