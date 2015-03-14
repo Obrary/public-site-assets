@@ -1,4 +1,4 @@
-#About Obrary
+﻿#About Obrary
 ---
 
 
@@ -9,7 +9,7 @@
 
 Obrary is a marketplace of products collaboratively designed by the community. These products can be designed or produced by anyone, amateur or professional manufacturer, wherever economically or reasonably practical.
 
-###Inspiration:
+###Inspiration
 We are inspired by the change that Open Source has brought about.  From software applications like Apache  and Git, operating systems like Linux and innovative hardware like RepRap and Rasberry Pi.  Our mission is to accomplish similar feats of positive change around how tangible real-world products are designed and manufactured, making that process more open and accessible for any who want to participate. 
 
 In Open Source, the source designs and code are made available to anyone for anyone to *use* or **improve**. Here’s the definition from Wikipedia at http://en.wikipedia.org/wiki/Open-source_software, 
@@ -41,7 +41,7 @@ If you submit Open Designs to Obrary:
 - **You must provide source files**. The design source file is from the CAD application used to create the design. This could be Sketch-Up, Grasshopper, InkScape, etc. We believe that in order for others to iterate on the design, they are most empowered by the source file versus an exchange formats like DXF and STL.
 - You will receive improvements, augmentations and adaptations to your original design. 
 
-###Why Creative Commons?
+####Why Creative Commons?
 
 Creative Commons has easy to understand licenses. Some other licenses have long documents full of legalize that aren’t user friendly. Creative Commons is the now the most popular licenses for hardware and designs, so our hope is that CC will be more easily identified and understood by people. The Creative Commons license is about general IP and is not just for software or technology based hardware.
 
