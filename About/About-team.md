@@ -3,8 +3,8 @@ We are a team of technologists, business leaders, product designers, and seasone
 
 <table>
 <tr>
-<td>![Eric](https://raw.githubusercontent.com/Obrary/public-site-assets/master/About/images/Eric-Circle_medium.png)</td>
-<td>[Eric Schleicher](http://www.linkedin.com/in/ericschleicher)</td>
+<td><img src="https://raw.githubusercontent.com/Obrary/public-site-assets/master/About/images/Eric-Circle_medium.png" alt="Eric Schleicher"></td>
+<td><a href="http://www.linkedin.com/in/ericschleicher">Eric Schleicher</a></td>
 </tr>
 <tr>
 <td>![Ha Phan](https://raw.githubusercontent.com/Obrary/public-site-assets/master/About/images/Ha-Circle_medium.png)</td>
