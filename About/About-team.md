@@ -11,9 +11,9 @@ We are a team of technologists, business leaders, product designers, and seasone
 </tr>
 <tr>
 <td align="center"><a href="http://www.linkedin.com/in/ericschleicher">Eric Schleicher</a></td>
-<td><a href="http://www.linkedin.com/in/hpuxixd">Ha Phan</a></td>
-<td><a href="http://www.linkedin.com/in/svaustin">Scott Austin</a></td>
-<td>Stella Daniels</td>
+<td align="center"><a href="http://www.linkedin.com/in/hpuxixd">Ha Phan</a></td>
+<td align="center"><a href="http://www.linkedin.com/in/svaustin">Scott Austin</a></td>
+<td align="center">Stella Daniels</td>
 </tr>
 </table>
 ###Startup Accelerator
