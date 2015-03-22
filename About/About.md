@@ -1,4 +1,4 @@
-## ﻿o·brar·y \'oh-brer-ee:
+﻿## ﻿o·brar·y \'oh-brer-ee:
 *noun*:  The library of Open Design products
 
 ###Background
@@ -63,13 +63,6 @@ We are a team of technologists, business leaders, product designers, and seasone
 <td>Stella Daniels</td>
 </tr>
 </table>
-###Startup Accelerator
 
-<table>
-<tr>
-<td><a href="http://www.commnexus.org/evonexus-companies/obrary-inc/"><img src="https://raw.githubusercontent.com/Obrary/public-site-assets/master/About/images/evobadge.png"/></a></td>
-<td>We are a proud member of EvoNexus - CommNexus is a non-profit technology industry association that works to accelerate the formation, growth, and success of the technology industry in the San Diego region.<td>
-</tr>
-</table>
 
 
