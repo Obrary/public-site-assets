@@ -46,23 +46,5 @@ Creative Commons has easy to understand licenses. Some other licenses have long 
 </td></tr>
 <table>
 
-###Team
-We are a team of technologists, business leaders, product designers, and seasoned entrepreneurs -- all makers. We eat our dog food of making, building, and collaborating, not because we have to, or because it’s research, but because it’s so fun.
-
-<table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/Obrary/public-site-assets/master/About/images/Eric-Circle_medium.png" alt="Eric Schleicher"></td>
-<td><img src="https://raw.githubusercontent.com/Obrary/public-site-assets/master/About/images/Ha-Circle_medium.png" alt="Ha Phan"></td>
-<td><img src="https://raw.githubusercontent.com/Obrary/public-site-assets/master/About/images/Scott-Circle_medium.png" alt="Scott Austin"></td>
-<td><img src="https://raw.githubusercontent.com/Obrary/public-site-assets/master/About/images/Stella_medium.png" alt="Stella Daniels"></td>
-</tr>
-<tr>
-<td><a href="http://www.linkedin.com/in/ericschleicher">Eric Schleicher</a></td>
-<td><a href="http://www.linkedin.com/in/hpuxixd">Ha Phan</a></td>
-<td><a href="http://www.linkedin.com/in/svaustin">Scott Austin</a></td>
-<td>Stella Daniels</td>
-</tr>
-</table>
-
 
 
