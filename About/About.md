@@ -1,4 +1,5 @@
-﻿## ﻿o·brar·y \'oh-brer-ee:
+﻿
+##o·brar·y \'oh-brer-ee:
 *noun*:  The library of Open Design products
 
 ###Background
