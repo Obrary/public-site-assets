@@ -46,9 +46,3 @@ Creative Commons has easy to understand licenses. Some other licenses have long 
 <img src="https://raw.githubusercontent.com/Obrary/public-site-assets/master/About/images/Obrary_Infographic_1024x1024.jpg" alt="Open Design Infographic">
 </td></tr>
 <table>
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> origin/master
