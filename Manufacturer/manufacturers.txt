@@ -1,0 +1,47 @@
+<div class="jumbotron">
+<div class="container">
+    <h1>Increase sales and decrease costs</h1>
+   <p>Our customizer increases conversion on your web site and saves you time on each customized product you make.</p>
+    <p><a class="btn btn-primary btn-lg" role="button" href="#">Learn more</a></p>
+  </div><img > 
+  </div>
+
+<div class="container">
+<h2>Easy for your customers</h2>
+
+END USER EASE OF USE
+Configure One invests tremendous development effort on making our online product configurator extremely user-friendly for end users. Our extensive usability engineering and testing is a big reason why companies around the world are so successful with our web-based configurator software. This ease of use offers multiple benefits:
+
+laptop
+
+the web-based configurator can be deployed with no training for end users – this makes it ideal for deploying to distributors, dealers and end customers, for whom training sessions are not always possible
+extended sales channels are more likely to adopt the online configurator
+users become productive instantly with the online configurator
+you can restrict functionality based on user type so that users only get access to online product configurator functionality appropriate for their skill set
+your company will be known as easy to do business with
+These usability benefits apply to using the web-based product configurator on both computers and mobile devices. Ease of use is an important aspect of our proprietary web based product configurator. Our web-based configurator’s user-centered design is an asset for any CPQ implementation – especially large and small manufacturing companies that sell through extended sales channels.
+
+<h2>Easy to Implement</h2>
+
+In any web-based product configurator implementation, defining your product rules is the single most important activity. It can also be the most time-consuming. From the start, over 15 years ago, Configure One’s vision was to develop a web-based product configurator that was easy-to-use and easy-to-implement. That’s why Configure One’s web configurator and CPQ software gives you such an edge.
+
+easy-to-use, point and click administrative screens allow customers to implement the software and define product rules quickly and without programming knowledge
+powerful setup screens allow for the efficient capture of rules for assemble-to-order, configure-to-order, and engineer-to-order product lines
+administrative and setup screens are completely web-based, giving you the flexibility to let your users implement and maintain the web configurator from anywhere in the world
+compiling is not needed to activate rules, this unique feature allows customers to implement their configurator more rapidly
+Concept Publisher module allows for easy publishing of changes between development, test and production environments
+the web configurator software handles even the most complex rules for option compatibility, bills of material generation, part numbering creation, pricing, discounting, document creation, manufacturing routings generation, dynamically created drawings, visualization and more
+there’s no limit on the number of rules you can capture
+
+
+<h2>Easy operation</h2>
+
+
+
+<h2>Mutilingual & Multinational User Interface</h2>
+Today’s international customers expect to conduct business in their native language and local currency. That’s why Configure One’s web configurator software provides you with industry-leading multilingual and multinational (currency, user-level time zone preference, numeric entry preference, etc.) web product configurator functionality.
+
+The Concept Multilingual module allows customers to present the web configurator software screens in their users’ local language. The multilingual functionality also provides the ability to produce documents such as proposals in different languages. So if a user wants to use Concept in Spanish, but produce a proposal in German for their end customers, that’s no problem.
+
+Compared to other web configurators, Concept does an excellent job of supporting both single- and double-byte (Mandarin, Japanese, etc.) character sets. These days, even small and medium sized companies are doing business globally and require this multilingual web product configurator functionality.
+</div>
