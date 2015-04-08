@@ -23,7 +23,6 @@
 <li>Fees and Billing Policy</li>
 <li>Privacy Policy</li>
 <li>Copyright and Intellectual Property Policy</li>
-<li>Direct Checkout Terms of Use</li>
 </ul>
 <p>In addition, some services offered by Obrary may be subject to additional terms and conditions promulgated by Obrary from time to time; your use of such services is subject to those additional terms and conditions, which are incorporated into this Agreement by this reference.
 
@@ -166,4 +165,4 @@
 <h2>23. Disclosures</h2>
 <p>The services hereunder are offered by Obrary Inc., located at 1251 Emerald Street, San Diego, CA 92109.
 
-<h2>Updated: April 7, 2015</h2>
+<h4>Updated: April 7, 2015</h4>

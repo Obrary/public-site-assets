@@ -34,4 +34,4 @@
 <h3>Manual Billing:</h3>
 <p>If your account is not enrolled in AutoBilling, then at the beginning of the month, Obrary will send an invoice to the seller’s email address on file detailing the amount due for the prior month’s fees and services. The seller must pay the amount due in full within 15 days of the date of the invoice, or the account will be considered past due.
 
-<h2>Updated: April 7, 2015</h2>
+<h4>Updated: April 7, 2015</h4>
