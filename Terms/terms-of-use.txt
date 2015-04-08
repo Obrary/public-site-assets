@@ -1,4 +1,4 @@
-<h1>Terms of Use<h1>
+<h1>Terms of Use</h1>
 
 <p>PLEASE READ THESE TERMS OF USE ("AGREEMENT" OR "TERMS OF USE") CAREFULLY BEFORE USING THE WEBSITE AND SERVICES OFFERED BY OBRARY, INC. (REFERRED TO AS, "OBRARY"). THIS AGREEMENT SETS FORTH THE LEGALLY BINDING TERMS AND CONDITIONS FOR YOUR USE OF THE WEBSITE AT OBRARY.COM (THE "SITE") AND SERVICES PROVIDED BY OBRARY (COLLECTIVELY, THE “SERVICES”).</p>
 
@@ -115,7 +115,7 @@
 <li>Copy, reproduce, modify, create derivative works from, distribute or publicly display any user Content (except for your Content) or other allowed uses as set out in Obrary Guidelines from the Site except to the extent expressly permitted by and in compliance with Obrary's API Terms of Use or otherwise without the prior express written permission of Obrary and the appropriate third party, as applicable</li>
 <li>Interfere or attempt to interfere with the proper working of the Site or any activities conducted on the Site</li>
 <li>Bypass Obrary's robot exclusion headers or other measures Obrary may use to prevent or restrict access to Obrary</li>
-
+</ul>
 <h2>11. Breach</h2>
 <p>Without limiting any other remedies, Obrary may, without notice, and without refunding any fees, delay or immediately remove Content, warn Obrary's community of a user's actions, issue a warning to a user, temporarily suspend a user, temporarily or indefinitely suspend a user's account privileges, terminate a user's account, prohibit access to the Site, and take technical and legal steps to keep a user off the Site and refuse to provide services to a user if any of the following apply:
 
@@ -156,7 +156,12 @@
 <p>This Agreement shall in all respects be interpreted and construed with and by the laws of the State of California, excluding its conflicts of laws rules, and the United States of America.
 
 <h2>22. Notices</h2>
-<p>Except as explicitly stated otherwise, any notices shall be given by postal mail to Obrary; Attn: Legal Department; 1251 Emerald Street, San Digeo, CA 92109 (in the case of Obrary) or, in your case, to the email address you provide to Obrary (either during the registration process or when your email address changes). Notice shall be deemed given 24 hours after email is sent, unless the sending party is notified that the email address is invalid. Alternatively, Obrary may give you notice by certified mail, postage prepaid and return receipt requested, to the address provided to Obrary. In such case, notice shall be deemed given three days after the date of mailing.
+<p>Except as explicitly stated otherwise, any notices shall be given by postal mail to:
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obrary
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attn: Legal Department
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1251 Emerald Street
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;San Digeo, CA 92109
+<br>(in the case of Obrary) or, in your case, to the email address you provide to Obrary (either during the registration process or when your email address changes). Notice shall be deemed given 24 hours after email is sent, unless the sending party is notified that the email address is invalid. Alternatively, Obrary may give you notice by certified mail, postage prepaid and return receipt requested, to the address provided to Obrary. In such case, notice shall be deemed given three days after the date of mailing.
 
 <p>For issues with intellectual property, please provide the notice as specified in Obrary's Copyright and Intellectual Property Policy.
 
