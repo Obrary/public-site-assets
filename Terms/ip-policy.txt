@@ -1,0 +1,45 @@
+<h1>Copyright and Intellectual Property Policy</h1>
+
+<p>Obrary, Inc. ("Obrary") has adopted the following general policy toward copyright and intellectual property infringement in accordance with general U.S. intellectual property laws and the Digital Millennium Copyright Act (http://lcweb.loc.gov/copyright/legislation/dmca.pdf). Obrary will respond to notices of this form from jurisdictions other than the U.S. as well. The address of Obrary's Designated Agent to Receive Notification of Claimed Infringement ("Designated Agent") is listed at the end of this policy.
+
+<p>Obrary may act expeditiously to respond to a proper notice by (1) removing or disabling access to material claimed to be subject of infringing activity; and (2) removing and discontinuing service to repeat offenders. If Obrary removes or disables access in response to such a notice, Obrary will make a good-faith attempt to contact the allegedly infringing party ("Member") so that they may make a counter notification.
+
+<h2>A. Procedure for Reporting Copyright or Intellectual Property Infringements:</h2>
+If you materially misrepresent that a product or activity is infringing your intellectual property, you may be liable for damages (including costs and attorneys' fees). Therefore, if you are not sure whether the material infringes upon your intellectual property, please contact an attorney before contacting Obrary.
+
+<p>If you believe that material residing on or accessible through the Obrary web site or service infringes a copyright or other intellectual property right, to provide Obrary of notice of such infringement, you may send a notice of infringement to the Designated Agent listed below (preferably via email to legal@Obrary.com). Please specify the type of infringement at issue and the notice must include the following information:  
+<ol>
+<li>A signature of a person authorized to act on behalf of the owner of the copyright or intellectual property right that has been allegedly infringed upon (signatures may be provided electronically by typing your name);</li>
+<li>Identification in sufficient detail of the material being infringed upon (for an allegation of a patent infringement, please provide a patent number);</li>
+<li>Identification of the material on Obrary that is claimed to be infringing upon the intellectual property. Include information regarding the location of the infringing material with sufficient detail so that Obrary is capable of finding and verifying its existence (for listings, please provide the link or URL to each listing you allege is infringing);</li>
+<li>Contact information about the notifier including the name of the intellectual property owner, the name and title of the person contacting Obrary on the owner's behalf, the address, telephone number and email address;</li>
+<li>A statement that the notifier has a good faith belief that the material is not authorized by the intellectual property or copyright owner, its agent, or the law; and</li>
+<li>A statement made under penalty of perjury that the information provided is accurate and the notifying party is authorized to make the complaint on behalf of the intellectual property or copyright owner.</li>
+</ol>
+<p>When removing material from the site, Obrary will make reasonable attempts to inform the Member of the removal, the reason for the removal, and may provide the Member with a copy of the notice and the notifying party’s contact information.
+
+<h2>B. Removal of Allegedly Infringing Material</h2>
+<p>Once Proper Bona Fide Infringement Notification is received by the Designated Agent, Obrary may remove or disable access to the material infringing upon the intellectual property. If Obrary removes or disables access to content in response to an infringement notice, Obrary will make reasonable attempts to notify the Member that Obrary has removed or disabled access to the material. Repeat offenders will have all material removed from the system and Obrary will terminate such Members’ access to the service.
+
+<h2>C. Procedure to Supply a Copyright Counter-Notice to the Designated Agent:</h2>
+<p>If you materially misrepresent that a product or activity is not infringing upon the intellectual property, you may be liable for damages (including costs and attorneys’ fees). Therefore, if you are not sure whether or not the material infringes on the intellectual property, please contact an attorney before contacting Obrary.
+
+<p>If a Member believes that their material that was removed or to which access was disabled is not infringing upon a copyright, you may send a counter-notice, pursuant to 512(g)(2) and (3) of the Digital Millennium Copyright Act. Please do not re-list or reactivate the material yourself. The counter-notice must contain the following information to the Designated Agent listed below.  
+<ol>
+<li>Your signature (signatures may be provided electronically by typing your name);</li>
+<li>Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or disabled;</li>
+<li>A statement, under penalty of perjury, that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material;</li>
+<li>Your name, address, telephone number, and email address, and a statement that you consent to the jurisdiction of the Federal Court for the judicial district in which the Member’s address is located, or if your address is located outside the United States, for any judicial district in which Obrary is located, and that you will accept service of process from the person who provided notification under subsection (c)(1)(C) or an agent of such person.</li>
+</ol>
+<p>If a counter-notice is received by the Designated Agent, Obrary may send a copy of the counter-notice to the original complaining party informing that person that Obrary may replace the removed material or cease disabling it in 10 business days. Unless the copyright or intellectual property owner files an action seeking a court order against the Member, the removed material may be replaced or access to it restored in 10 to 14 business days after receipt of the counter-notice, at Obrary’s discretion.
+
+<p>Please contact Obrary’s Designated Agent to submit Notifications of Claimed Infringement and Copyright Counter-Notices by email: legal@Obrary.com (preferred), or at the following address:
+
+<p>Designated Agent to Receive Notification of Claimed Infringement:
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obrary
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attn: Legal Department
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1251 Emerald Street
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;San Digeo, CA 92109
+
+<h2>Updated: April 7, 2015</h2>

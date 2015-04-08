@@ -20,12 +20,10 @@
 
 <p>Compliance: You agree to comply with all local laws regarding online conduct and acceptable content. You are responsible for all applicable taxes. In addition, you must abide by Obrary's policies as stated in the Agreement and the Obrary policy documents listed below (if applicable to your activities on or use of the Services) as well as all other operating rules, policies and procedures that may be published from time to time on the Site by Obrary, each of which is incorporated herein by reference and each of which may be updated by Obrary from time to time without notice to you:
 <ul>
-<li>Obrary Guidelines</li>
-<li>Fees Policy</li>
+<li>Fees and Billing Policy</li>
 <li>Privacy Policy</li>
 <li>Copyright and Intellectual Property Policy</li>
 <li>Direct Checkout Terms of Use</li>
-<li>Billing Policy</li>
 </ul>
 <p>In addition, some services offered by Obrary may be subject to additional terms and conditions promulgated by Obrary from time to time; your use of such services is subject to those additional terms and conditions, which are incorporated into this Agreement by this reference.
 

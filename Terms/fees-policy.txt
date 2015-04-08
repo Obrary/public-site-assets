@@ -1,0 +1,37 @@
+<h1>Fees and Billing Policy</h1>
+
+<h2>Setup fees</h2>
+
+<p>Each product listing on Obrary incurs a $99 set-up fee.  The set-up work includes configuration of the Direct2Laser configuration software. Set-up fees are added to your Obrary bill. 
+
+<h2>Transaction fees</h2>
+
+<p>When you make a sale on Obrary, you will be charged a transaction fee of 5.5% of the item price. This percentage does not include the shipping cost or tax. Transaction fees are added to your Obrary bill. 
+
+<h2>Payment processing fees</h2>
+
+<p>Eligible shops may choose to use Obrary’s payment platform, Direct Checkout, to process payments. Payment processing fees vary by location of your bank and are applied to each order completed via Direct Checkout. See the Direct Checkout Terms of Use for payment processing fees by country. This fee is assessed on the total amount of the sale, including tax and shipping. Unlike other fees, this payment processing fee is deducted from the transaction amount as the funds become available for deposit. Payment processing fees will be reflected in your Shop Payment Account, rather than on your Obrary bill.
+
+<h2>Currency conversion</h2>
+
+<p>All fees that are listed on your Obrary bill are in US Dollars. If you list in a currency other than US Dollars, your item price will be converted to US Dollars before the transaction fee is applied. Currency conversion is handled automatically by our payment processing service. 
+
+<p>Payment processing fees are deducted from funds available for deposit and are charged in the currency in which you receive your funds.
+
+<h2>Billing Policy</h2>
+
+<p>Obrary offers two plans for paying your bill: manual and automatic bill payment.
+
+<h3>AutoBilling:</h3>
+<p>The following terms apply if you are eligible and enrolled in the automatic payment plan (“AutoBilling”).
+<ul>
+<li>You authorize Obrary to keep your payment card information on file and to charge the card on file on the first day of each calendar month for the previous month's outstanding charges, and at any time the balance of fees reaches the designated fee threshold for your account. Upon enrollment, Obrary will charge the card on file with the current balance.</li>
+<li>When your card account is debited, you will receive an email from Obrary to the email address on file letting you know the amount charged. You can also review this information by accessing your account on the Obrary site.</li>
+<li>If your card account on file with us is closed or the account number is changed, or if, for any reason, a charge is rejected by your card issuer, you must update your card information or supply a new card number, as appropriate, in your Obrary account. If your charge is refused by the issuer for any reason, you may be subject to penalties such as the suspension of privileges and/or termination. Your authorization applies to any successor or replacement card you provide.</li>
+<li>You may cancel AutoBilling and revert to manual billing by updating your billing setting in your Obrary account. Obrary requires a reasonable period of time to act after we receive your notice. This means that an additional automatic payment may be made to your card account while we are processing your request.</li>
+<li>Suspended or terminated members remain obligated to pay Obrary for all unpaid fees per our Terms of Use.</li>
+</ul>
+<h3>Manual Billing:</h3>
+<p>If your account is not enrolled in AutoBilling, then at the beginning of the month, Obrary will send an invoice to the seller’s email address on file detailing the amount due for the prior month’s fees and services. The seller must pay the amount due in full within 15 days of the date of the invoice, or the account will be considered past due.
+
+<h2>Updated: April 7, 2015</h2>
